@@ -1,2 +1,2 @@
 # Symbolic-Regression-of-Multi-Space-Group-Perovskites
-This is the original code for the paper "Symbolic Regression Exploration of the Band Gap in Multi-Space-Group Perovskites", which includes dataset generation, feature engineering, the Decision Tree Symbolic Regression (DTSR) algorithm, etc. If you use the algorithms or code from this work in your research, please cite the paper.
+This is the original code for the paper "Symbolic Regression Exploration of the Band Gap in Multi-Space-Group Perovskites Across Vast Composition Spaces", which includes dataset generation, feature engineering, the Decision Tree Symbolic Regression (DTSR) algorithm, etc. If you use the algorithms or code from this work in your research, please cite the paper.
